@@ -52,6 +52,14 @@ You have successfully assembled The Cube(TM)! Enjoy!
 
 (Might be a little heavy lol)
 
+## Renders
+
+<img src="Images/Bottom_Render.png" alt="Zine Image" width="600">
+
+<img src="Images/Corner_Render.png" alt="Zine Image" width="600">
+
+
+
 # Credits
 - Made Zine with Canva
 - Tungsten cube received from "Midwest Tungsten Service Inc"
