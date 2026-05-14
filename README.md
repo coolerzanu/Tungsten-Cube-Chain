@@ -10,6 +10,8 @@ The Cube is a fully custom 0.5x0.5x0.5in Tungsten Cube Jewelry Piece
 ## Why I made it!!!
 I wanted to take a break from traditional PCB Projects so I decided to try my hand at making some cool hardware accessories! My friend gifted me a 0.5in tungsten cube and I have no real use for it! (besides it being a really really cool paper weight). Thus, I turned it into a really cool hardware accessory!
 
+[Full Assembly Onshape](https://cad.onshape.com/documents/b1fcd920144e0cc3e2a6319d/w/3c4c9d60b0d8746b41f1ed25/e/059ad782153f7d69dcb8c938?renderMode=0&uiState=6a0652af2ab656562f6ea1ab)
+
 ## Basic Overview - Parts
 - 0.5x0.5x0.5 inch tungsten cube
 - Corner Mount 
