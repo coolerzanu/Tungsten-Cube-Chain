@@ -2,7 +2,7 @@
 
 Hello! Welcome, this is my second hardware project. However unlike last time this has literally 0 technology!
 
-<img src="Tungsten Cube Chain (3).png" alt="Zine Image" width="600">
+<img src="Zine.png" alt="Zine Image" width="600">
 
 The Cube is a fully custom 0.5x0.5x0.5in Tungsten Cube Jewelry Piece
 
