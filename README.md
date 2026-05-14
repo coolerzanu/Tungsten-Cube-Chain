@@ -34,6 +34,21 @@ Start by downloading the .STEP file from the github repo. Ensure you have a slic
 - Brim Setting: True
 - Speed: Slow or "Silent" 
 
+### Step 2 - Assembly
+
+After print is finished, prepare your soldering Iron to 200 degrees Celsius. While the iron is heating up, prepare your work station and have  your tungsten cube and mount ready. Once heated up, put the cube into the mount and lightly press the hot iron on one of the corner prongs of the mount. Put the iron down safely and lightly bend the heated prong down into the cube ensuring it is sitting flush. 
+
+Repeat for the other two prongs and turn off your soldering iron. 
+
+### Adding the chain
+
+Now that the cube is mounted, take your chain and thread it through the small eye at the top of the accessory. After ensuring the piece is at the center of the chain, connect the chain into a circle. 
+
+### Finished! 
+
+You have successfully assembled The Cube(TM)! Enjoy!
+
+(Might be a little heavy lol)
 
 # Credits
 - Made Zine with Canva
